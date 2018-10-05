@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-##### Objective: Build a full stack JavaScript app that is functionally similar to this: https://spark-cathedral.glitch.me/.
+##### Objective: Build a full stack JavaScript app that is functionally similar to this: https://spark-cathedral.glitch.me/
 ###### User stories:
 - Nothing from my website will be cached in my client as a security measure.
 - I will see that the site is powered by 'PHP 4.2.0' even though it isn't as a security measure.
